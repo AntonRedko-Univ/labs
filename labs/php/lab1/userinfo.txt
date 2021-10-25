@@ -1,0 +1,5 @@
+ADMIN - 'login' => 'BarATrum009', 'password' => 'cominthrough', 'name' => 'Àäà', 'surname' => 'Áàéğîí', 'role' => 'admin'
+
+CLIENT - 'login' => 'Dotyev007', 'password' => 'H@5ley', 'name' => 'Àôàíàñèé', 'surname' => 'Àâäîòüåâ', 'role' => 'client'
+
+MANAGER - 'login' => 'imabest', 'password' => 'bestmanager', 'name' => 'Èâàí', 'surname' => 'Èâàíîâ', 'role' => 'manager'
